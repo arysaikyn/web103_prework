@@ -1,10 +1,10 @@
-# WEB103 Prework - *👉🏿 Name of App Here*
+# WEB103 Prework - *👉🏿 Creatorverse*
 
-Submitted by: **👉🏿 your name here**
+Submitted by: **👉🏿 Arys Aikyn**
 
-About this web app: **👉🏿 app description here**
+About this web app: **👉🏿 an app for your fav creators**
 
-Time spent: **👉🏿 X** hours
+Time spent: **👉🏿 1** hours
 
 ## Required Features
 
